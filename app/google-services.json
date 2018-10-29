@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "498128413052",
+    "firebase_url": "https://iitism-bb586.firebaseio.com",
+    "project_id": "iitism-bb586",
+    "storage_bucket": "iitism-bb586.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498128413052:android:6aee2ccdeac2bbd4",
+        "android_client_info": {
+          "package_name": "developer.ism.iit.healthcen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498128413052-tat1mi551u36562vv3bm171fukgu0jib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "developer.ism.iit.healthcen",
+            "certificate_hash": "a21137b55daa80cc8a93912153a6b7711c3a0e26"
+          }
+        },
+        {
+          "client_id": "498128413052-5tdcir6d5omgjag4tcl9ami9bj87b25l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAian4LhPtCnTrYb6g8IK8HE6MLpSJPFM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498128413052-5tdcir6d5omgjag4tcl9ami9bj87b25l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
